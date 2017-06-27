@@ -69,7 +69,7 @@ test:
  #     appname: foo-bar-123
 
 ## Custom notifications
-notify:
-  webhooks:
+# notify:
+#  webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://app.amium.com/integrations/v1.0/webhooks/7669151486f73717dd2d101c43610c5c
+ #   - url: https://app.amium.com/integrations/v1.0/webhooks/7669151486f73717dd2d101c43610c5c
