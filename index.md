@@ -8,41 +8,62 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-# [](#header-1)PCI DSS Tables (Testbed)
+# <a name="Top"></a>[](#header-1)PCI DSS Tables (Testbed)
 
 Experimenting with GitHub and Markdown using PCI DSS rules as content.
 
+|[1](#Part-1)|[2](#Part-2)|[3](#Part-3)|[4](#Part-4)|[5](#Part-5)|[6](#Part-6)|
+
 * * *
 
-## [](#header-2)Part 1: Build and Maintain a Secure Network and Systems
+## <a name="Part-1"></a>Part 1: Build and Maintain a Secure Network and Systems
 
->Requirement 1: Install and maintain a firewall configuration to protect cardholder data
->Requirement 2: Do not use vendor-supplied defaults for system passwords and other security parameters
+>**Requirement 1:** Install and maintain a firewall configuration to protect cardholder data
 
-## [](#header-2)Part 2: Protect Cardholder Data
+>**Requirement 2:** Do not use vendor-supplied defaults for system passwords and other security parameters
 
->Requirement 3: Protect stored cardholder data
->Requirement 4: Encrypt transmission of cardholder data across open, public networks
+[**^**](#Top)
 
-## [](#header-2)Part 3: Maintain a Vulnerability Management Program
 
->Requirement 5: Protect all systems against malware and regularly update anti-virus software or programs
->Requirement 6: Develop and maintain secure systems and applications
+## <a name="Part-2"></a>Part 2: Protect Cardholder Data
 
-## [](#header-2)Part 4: Implement Strong Access Control Measures
+>**Requirement 3:** Protect stored cardholder data
 
->Requirement 7: Restrict access to cardholder data by business need to know
->Requirement 8: Identify and authenticate access to system components
->Requirement 9: Restrict physical access to cardholder data
+>**Requirement 4:** Encrypt transmission of cardholder data across open, public networks
 
-## [](#header-2)Part 5: Regularly Monitor and Test Networks
+[**^**](#Top)
 
->Requirement 10: Track and monitor all access to network resources and cardholder data
->Requirement 11: Regularly test security systems and processes.
+## <a name="Part-3"></a>Part 3: Maintain a Vulnerability Management Program
 
-## [](#header-2)Part 6: Maintain an Information Security Policy
+>**Requirement 5:** Protect all systems against malware and regularly update anti-virus software or programs
 
->Requirement 12: Maintain a policy that addresses information security for all personnel.
+>**Requirement 6:** Develop and maintain secure systems and applications
+
+[**^**](#Top)
+
+## <a name="Part-4"></a>Part 4: Implement Strong Access Control Measures
+
+>**Requirement 7:** Restrict access to cardholder data by business need to know
+
+>**Requirement 8:** Identify and authenticate access to system components
+
+>**Requirement 9:** Restrict physical access to cardholder data
+
+[**^**](#Top)
+
+## <a name="Part-5"></a>Part 5: Regularly Monitor and Test Networks
+
+>**Requirement 10:** Track and monitor all access to network resources and cardholder data
+
+>**Requirement 11:** Regularly test security systems and processes.
+
+[**^**](#Top)
+
+## <a name="Part-6"></a>Part 6: Maintain an Information Security Policy
+
+>**Requirement 12:** Maintain a policy that addresses information security for all personnel.
+
+[**^**](#Top)
 
 * * *
 
