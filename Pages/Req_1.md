@@ -7,6 +7,6 @@ layout: default
 
 text
 
-#### _Part 1: Build and Maintain a Secure Network and Systems_
 
-[back](../)
+
+[_Part 1: Build and Maintain a Secure Network and Systems_](../#Part-1)
