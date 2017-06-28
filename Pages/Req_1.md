@@ -1,9 +1,0 @@
----
-layout: default
----
-
-# Requirement 1: Install and maintain a firewall configuration to protect cardholder data
-
-
-
-[back](../)

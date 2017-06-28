@@ -18,7 +18,7 @@ Experimenting with GitHub and Markdown using PCI DSS rules as content.
 
 ## <a name="Part-1"></a>Part 1: Build and Maintain a Secure Network and Systems
 
->**Requirement 1:** [Install and maintain a firewall configuration to protect cardholder data](Pages/Req_1)
+>**Requirement 1:** Install and maintain a firewall configuration to protect cardholder data
 
 >**Requirement 2:** Do not use vendor-supplied defaults for system passwords and other security parameters
 
