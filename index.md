@@ -6,36 +6,66 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](Pages/another-page).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# <a name="Top"></a>[](#header-1)PCI DSS Tables (Testbed)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Experimenting with GitHub and Markdown using PCI DSS rules as content.
 
-## [](#header-2)Header 2
+|[1](#Part-1)|[2](#Part-2)|[3](#Part-3)|[4](#Part-4)|[5](#Part-5)|[6](#Part-6)|
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* * *
 
-### [](#header-3)Header 3
+## <a name="Part-1"></a>Part 1: Build and Maintain a Secure Network and Systems
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+>**Requirement 1:** [Install and maintain a firewall configuration to protect cardholder data](Pages/Req_1)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+>**Requirement 2:** Do not use vendor-supplied defaults for system passwords and other security parameters
+
+[**^**](#Top)
+
+
+## <a name="Part-2"></a>Part 2: Protect Cardholder Data
+
+>**Requirement 3:** Protect stored cardholder data
+
+>**Requirement 4:** Encrypt transmission of cardholder data across open, public networks
+
+[**^**](#Top)
+
+## <a name="Part-3"></a>Part 3: Maintain a Vulnerability Management Program
+
+>**Requirement 5:** Protect all systems against malware and regularly update anti-virus software or programs
+
+>**Requirement 6:** Develop and maintain secure systems and applications
+
+[**^**](#Top)
+
+## <a name="Part-4"></a>Part 4: Implement Strong Access Control Measures
+
+>**Requirement 7:** Restrict access to cardholder data by business need to know
+
+>**Requirement 8:** Identify and authenticate access to system components
+
+>**Requirement 9:** Restrict physical access to cardholder data
+
+[**^**](#Top)
+
+## <a name="Part-5"></a>Part 5: Regularly Monitor and Test Networks
+
+>**Requirement 10:** Track and monitor all access to network resources and cardholder data
+
+>**Requirement 11:** Regularly test security systems and processes.
+
+[**^**](#Top)
+
+## <a name="Part-6"></a>Part 6: Maintain an Information Security Policy
+
+>**Requirement 12:** Maintain a policy that addresses information security for all personnel.
+
+[**^**](#Top)
+
+* * *
 
 #### [](#header-4)Header 4
 
