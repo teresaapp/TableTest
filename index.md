@@ -18,50 +18,50 @@ Experimenting with GitHub and Markdown using PCI DSS rules as content.
 
 ## <a name="Part-1"></a>Part 1: Build and Maintain a Secure Network and Systems
 
->**Requirement 1:** Install and maintain a firewall configuration to protect cardholder data
+>**Requirement 1:** [Install and maintain a firewall configuration to protect cardholder data](Pages/Req_1)
 
->**Requirement 2:** Do not use vendor-supplied defaults for system passwords and other security parameters
+>**Requirement 2:** [Do not use vendor-supplied defaults for system passwords and other security parameters](Pages/Req_2)
 
 [**^**](#Top)
 
 
 ## <a name="Part-2"></a>Part 2: Protect Cardholder Data
 
->**Requirement 3:** Protect stored cardholder data
+>**Requirement 3:** [Protect stored cardholder data](Pages/Req_3)
 
->**Requirement 4:** Encrypt transmission of cardholder data across open, public networks
+>**Requirement 4:** [Encrypt transmission of cardholder data across open, public networks](Pages/Req_4)
 
 [**^**](#Top)
 
 ## <a name="Part-3"></a>Part 3: Maintain a Vulnerability Management Program
 
->**Requirement 5:** Protect all systems against malware and regularly update anti-virus software or programs
+>**Requirement 5:** [Protect all systems against malware and regularly update anti-virus software or programs](Pages/Req_5)
 
->**Requirement 6:** Develop and maintain secure systems and applications
+>**Requirement 6:** [Develop and maintain secure systems and applications](Pages/Req_6)
 
 [**^**](#Top)
 
 ## <a name="Part-4"></a>Part 4: Implement Strong Access Control Measures
 
->**Requirement 7:** Restrict access to cardholder data by business need to know
+>**Requirement 7:** [Restrict access to cardholder data by business need to know](Pages/Req_7)
 
->**Requirement 8:** Identify and authenticate access to system components
+>**Requirement 8:** [Identify and authenticate access to system components](Pages/Req_8)
 
->**Requirement 9:** Restrict physical access to cardholder data
+>**Requirement 9:** [Restrict physical access to cardholder data](Pages/Req_9)
 
 [**^**](#Top)
 
 ## <a name="Part-5"></a>Part 5: Regularly Monitor and Test Networks
 
->**Requirement 10:** Track and monitor all access to network resources and cardholder data
+>**Requirement 10:** [Track and monitor all access to network resources and cardholder data](Pages/Req_10)
 
->**Requirement 11:** Regularly test security systems and processes.
+>**Requirement 11:** [Regularly test security systems and processes.](Pages/Req_11)
 
 [**^**](#Top)
 
 ## <a name="Part-6"></a>Part 6: Maintain an Information Security Policy
 
->**Requirement 12:** Maintain a policy that addresses information security for all personnel.
+>**Requirement 12:** [Maintain a policy that addresses information security for all personnel.](Pages/Req_12)
 
 [**^**](#Top)
 
